@@ -1,1 +1,1 @@
-# BIKE1CPU
+# BIKECPU
